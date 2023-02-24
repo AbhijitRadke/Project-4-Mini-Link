@@ -1,4 +1,4 @@
-# Project-4-URL-Shortner
+# Project-4-Mini-Link
 # Lithium
 
 ## Scalable URL Shortner Project Requirement
